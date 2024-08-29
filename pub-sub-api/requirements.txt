@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+confluent-kafka
+pydantic
+ujson
+aiokafka
+requests
+python-dotenv
+python-dotenv
